@@ -172,6 +172,7 @@
     <EmbeddedResource Include="Resources\nvidia.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\app.manifest">
       <SubType>Designer</SubType>
     </None>
